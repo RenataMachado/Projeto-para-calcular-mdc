@@ -10,4 +10,4 @@ dc = a
 while not (a%dc == 0 and b%dc==0):
     dc = dc-1
 # Criei um laço para decrementar
-print('O MDC entre esses números é :(%d, %d)=%d'%(a,b,dc))
+print('O MDC entre:(%d, %d)=%d'%(a,b,dc))
